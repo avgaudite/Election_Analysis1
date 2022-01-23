@@ -1,7 +1,7 @@
 # Overview of Election Audit
 
 ## Purpose
-To assist a Colorado Board of Elections employee, Tom, in an election audit of the tabulated results for a U.S. Congressional Precinct in Colorado.The task is to report:
+To assist a Colorado Board of Elections employee, Tom, in an election audit of the tabulated results for a U.S. Congressional Precinct in Colorado. The task is to report:
 1. Total number of votes cast
 2. Total number of votes for each candidate
 3. The percentage of votes for each candidate
